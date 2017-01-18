@@ -1,4 +1,7 @@
 Quick install(for lazy asses)
+
+Ignore errors on tmp_launch.sh install !
+
 git clone https://github.com/anupritaisno1/Clannadbot
 
 
@@ -15,7 +18,7 @@ bash ./tmp_launch.sh install
 send SIGTERM/SIGINT
 
 
-cp /scripts/*.sh ~/
+cp scripts/*.sh ~/
 
 
 cd ~
@@ -25,7 +28,7 @@ chmod u+x *.sh && chmod 777 *.sh
 
 
 Run the bot with:
-cd && start-all.sh >> /dev/null 2>&1
+cd && bash ./start-all.sh >> /dev/null 2>&1
 Fun stuff made by https://telegram.me/dangou ! check end of README.md !
 # [TeleSeed](https://telegram.me/TeleSeed)
 

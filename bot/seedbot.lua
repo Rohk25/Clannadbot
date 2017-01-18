@@ -69,7 +69,6 @@ function msg_valid(msg)
   end
 
   if not msg.to.id then
-
     print('\27[36mNot valid: To id not provided\27[39m')
     return false
   end
