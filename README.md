@@ -2,10 +2,10 @@ Quick install(for lazy asses)
 
 Ignore errors on tmp_launch.sh install !
 
-git clone https://github.com/anupritaisno1/Clannadbot
+git clone https://github.com/Rohk25/RkManager
 
 
-cd Clannadbot
+cd RkManager
 
 
 chmod u+x *.sh && chmod 777 *.sh
@@ -29,6 +29,7 @@ chmod u+x *.sh && chmod 777 *.sh
 
 Run the bot with:
 cd && bash ./start-all.sh >> /dev/null 2>&1
+
 Fun stuff made by https://telegram.me/dangou ! check end of README.md !
 # [TeleSeed](https://telegram.me/TeleSeed)
 
